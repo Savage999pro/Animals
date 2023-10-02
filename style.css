@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(0, 17, 255);
+}
+    #title{
+        color:rgb(255, 0, 0);
+        font-family: 'Bungee Spice', cursive;
+    }
+    .copy_right_footer{
+        background-color:rgb(0, 21, 255);
+        color:rgb(255, 0, 0);
+        font-size:22px;
+        line-height:2;
+        position:fixed;
+        bottom:0;
+        width:100%;
+        text-align:center;
+    }
+    
